@@ -54,7 +54,7 @@
           <!-- Image placeholder -->
           <div class="w-80 h-80 bg-gray-300 rounded-full mb-4 overflow-hidden">
             <img 
-              src="C:\Nuxt Kuliah\cv-nuxt\assets\WhatsApp Image 2024-09-25 at 3.42.21 AM.jpeg" 
+              src="./assets/WhatsApp Image 2024-09-25 at 3.42.21 AM.jpeg" 
               alt="Bren's photo" 
               class="w-full h-full object-cover"
             />
